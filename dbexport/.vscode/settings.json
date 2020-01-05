@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/cloud_user/.local/share/virtualenvs/dbexport-4U2HVR9X/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
+    "python.jediEnabled": true,
+    "python.formatting.provider": "black"
+}

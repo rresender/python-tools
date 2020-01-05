@@ -1,0 +1,9 @@
+[submodule "assault"]
+	path = assault
+	url = ./assault
+[submodule "dbexport"]
+	path = dbexport
+	url = ./dbexport
+[submodule "servercheck"]
+	path = servercheck
+	url = ./servercheck

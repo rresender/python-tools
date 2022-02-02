@@ -6,9 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-scrapy = "*"
-aiosmtpd = "*"
-aiosmtpdsource = "*"
+scrapy = ">=2.5.1"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"

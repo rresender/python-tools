@@ -6,7 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-scrapy = "*"
+lxml = ">=4.6.5"
+scrapy = ">=2.5.1"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"

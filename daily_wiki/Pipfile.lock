@@ -1,11 +1,11 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e999ceafa531aa10c4260eabc489a6df681b0e22bce3e6cd9d4eba1bd100acc2"
+            "sha256": "3ba932807bbe590ac042bd594c0edfba8198be6c3b35070de1ec7eda7ef4b4f9"
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.7"
+            "python_version": "3.9"
         },
         "sources": [
             {
@@ -329,7 +329,11 @@
             "hashes": [
                 "sha256:02e2e4cc71b5bcab88332eebf907519190dd9e6e82107fa7f83b1003a6252980",
                 "sha256:90261b206d6defd58fdd5e85f478bf633a2901798906be2ad389150c5c60edbe"
+                "sha256:02e2e4cc71b5bcab88332eebf907519190dd9e6e82107fa7f83b1003a6252980",
+                "sha256:90261b206d6defd58fdd5e85f478bf633a2901798906be2ad389150c5c60edbe"
             ],
+            "markers": "python_version >= '3.7'",
+            "version": "==1.0.1"
             "markers": "python_version >= '3.7'",
             "version": "==1.0.1"
         },
@@ -472,6 +476,7 @@
             "version": "==5.4.0"
         },
         "packaging": {
+        "packaging": {
             "hashes": [
                 "sha256:29572ef2b1f17581046b3a2227d5c611fb25ec70ca1ba8554b24b0e69331a484",
                 "sha256:d443872c98d677bf60f6a1f2f8c1cb748e8fe762d2bf9d3148b5599295b0fc4f"
@@ -479,6 +484,7 @@
             "markers": "python_version >= '3.8'",
             "version": "==25.0"
         },
+        "parsel": {
         "parsel": {
             "hashes": [
                 "sha256:14f17db9559f51b43357b9dfe43cec870a8efb5ea4857abb624ec6ff80d8a080",
@@ -591,10 +597,15 @@
             "markers": "python_version >= '3.9'",
             "version": "==5.3.0"
         },
-        "twisted": {
-            "extras": [
-                "http2"
+        "tldextract": {
+            "hashes": [
+                "sha256:47aa4d8f1a4da79a44529c9a2ddc518663b25d371b805194ec5ce2a5f615ccd2",
+                "sha256:78aef13ac1459d519b457a03f1f74c1bf1c2808122a6bcc0e6840f81ba55ad73"
             ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.4.0"
+        },
+        "twisted": {
             "hashes": [
                 "sha256:695d0556d5ec579dcc464d2856b634880ed1319f45b10d19043f2b57eb0115b5",
                 "sha256:fe403076c71f04d5d2d789a755b687c5637ec3bcd3b2b8252d76f2ba65f54261"

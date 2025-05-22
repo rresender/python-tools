@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 scrapy = "*"
 aiosmtpd = "*"
-aiosmtpdsource = "*"
 
 [requires]
 python_version = "3.7"
